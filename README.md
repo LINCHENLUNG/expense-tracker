@@ -2,6 +2,10 @@
 
 An AI-assisted expense tracker web app. The frontend has two screens (tracking and cashback), data is stored in Firebase, and quick expense entry is powered by Gemini AI.
 
+## Repository
+
+https://github.com/LINCHENLUNG/expense-tracker
+
 ## Feature Architecture
 
 ```
